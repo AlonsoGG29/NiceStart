@@ -70,3 +70,7 @@ Actualizaciones más adelante
 
 He añadido un modo noche, que cambia el fondo a negro y que cambia los colores a unos más suaves
 
+
+### Idiomas
+
+La aplicación tiene traducción al Francés de Francia
