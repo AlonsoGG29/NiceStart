@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NiceStart</string>
+    <string name="name">Nom</string>
+    <string name="perfil">Profil</string>
+    <string name="copiar">Copie</string>
+    <string name="ajustes">Paramètres</string>
+    <string name="signOut">Se déconnecter</string>
+    <string name="ejem1">Exemple 1</string>
+    <string name="ejem2">Exemple 2</string>
+</resources>

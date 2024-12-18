@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff333333</color>
+    <color name="white">#ffaaaaaa</color>
+    <color name="azulMarino">#072b3f</color>
+    <color name="azulDiamantes">#7ccbdd</color>
+    <color name="verdecillo">#adb960</color>
+    <color name="fucsiaTocho">#9e4fa9</color>
+    <color name="valladolid">#401052</color>
+    <color name="pistacho">#6fba1a</color>
+    <color name="sureste">#590000</color>
+    <color name="rivas">#b33a17</color>
+    <color name="villarreal">#d4d11a</color>
+    <color name="aqua">#18b377</color>
+    <color name="AzulReal">#147cae</color>
+    <color name="tlou">#8d5321</color>
+
+</resources>
