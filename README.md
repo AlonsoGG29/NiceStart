@@ -65,3 +65,8 @@ Esta pantalla muestra la foto de perfil de manera circular, nombre, descripción
 Actualizaciones más adelante
 
 
+### Modo noche
+![Night Profile](imagenes/modoNoche.jpg "Menu en modo noche")
+
+He añadido un modo noche, que cambia el fondo a negro y que cambia los colores a unos más suaves
+
