@@ -6,7 +6,22 @@ Nicestart es una aplicación Android simple que incluye tres pantallas principal
 
 El proyecto también está organizado en ramas.
 
+
+
+
+
+### Sugerencia de actualización
+
+Una actualización homenaje a Pokémon Blanco y Negro.
+
+Cambios:
+
+- Se ha añadido un nuevo logo.
+- Se ha cambiado imagenes por defecto de la app.
+- Se ha cambiado la foto de perfil.
+
 ## Su funcionamiento
+
 
 ### Pantalla de Login
 ![Login](imagenes/Login.png "Pantalla de Login")
