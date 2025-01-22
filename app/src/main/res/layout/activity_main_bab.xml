@@ -10,9 +10,8 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent" />
 
-    </androidx.recyclerview.widget.RecyclerView>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/coordinator"
@@ -22,6 +21,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
+
         <com.google.android.material.bottomappbar.BottomAppBar
             android:id="@+id/bottom_app_bar"
             android:layout_width="match_parent"
@@ -30,8 +30,10 @@
             app:fabAlignmentMode="center"
             app:menu="@menu/bottom_app_bar_menu"
             app:navigationIcon="@drawable/hamburger"
-            app:fabAnchorMode="cradle">
-        </com.google.android.material.bottomappbar.BottomAppBar>
+            />
+        <!--        app:fabAnchorMode="cradle/embed"-->
+
+        <!--            style="@style/Widget.MaterialComponents.BottomAppBar.PrimarySurface"-->
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/fab"
@@ -40,8 +42,8 @@
             android:backgroundTint="@color/azulMarino"
             android:src="@drawable/calendario"
             app:fabSize="normal"
-            app:layout_anchor="@id/bottom_app_bar"
-            android:tint="@color/white"/>
+            app:layout_anchor="@+id/bottom_app_bar"
+            app:tint="@android:color/white" />
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
