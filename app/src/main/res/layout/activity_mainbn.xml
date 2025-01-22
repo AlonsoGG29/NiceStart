@@ -20,7 +20,7 @@
             android:minHeight="?actionBarSize"
             android:padding="0dp"
             android:text="Nicestart"
-            android:textAppearance="@style/Widget.AppCompat.Toolbar.Title"/>
+            android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"/>
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tabs"
