@@ -84,7 +84,7 @@ public class mainBab extends AppCompatActivity {
             return insets;
         });
 
-
+    /*
         // Método para mostrar el BottomSheetDialog
         private void showBottomSheetDialog() {
             // Inflar el diseño del BottomSheet
@@ -126,6 +126,6 @@ public class mainBab extends AppCompatActivity {
                     bottomSheetDialog.dismiss();
                 }
             });
-        }
+        }*/
     }
 }
