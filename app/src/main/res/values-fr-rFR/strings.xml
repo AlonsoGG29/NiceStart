@@ -8,4 +8,6 @@
     <string name="signOut">Se déconnecter</string>
     <string name="ejem1">Exemple 1</string>
     <string name="ejem2">Exemple 2</string>
+    <string name="fragment_tres">Fragment tres</string>
+    <string name="fragment_cuatro">Fragment cuatro</string>
 </resources>

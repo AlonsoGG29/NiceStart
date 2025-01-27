@@ -8,4 +8,7 @@
     <string name="ejem1">Ejemplo 1</string>
     <string name="ejem2">Ejemplo 2</string>
     <string name="signOut">Cerrar Sesion</string>
+    <string name="hola_fragment_2">Hola fragment 2</string>
+    <string name="fragment_tres">Fragment tres</string>
+    <string name="fragment_cuatro">Fragment cuatro</string>
 </resources>

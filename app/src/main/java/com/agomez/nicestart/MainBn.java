@@ -31,7 +31,7 @@ public class MainBn extends AppCompatActivity {
         setContentView(R.layout.activity_mainbn);                                                           //IMPORTANTE
 
         //Solo pasamos getSupportFragmentManager al adaptador
-        sectionsPagerAdapter = new SectionsPagerAdapter(this, getSupportFragmentManager());         //IMPORTANTE
+        SectionsPagerAdapter sectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());         //IMPORTANTE
 
         ViewPager viewPager = findViewById(R.id.view_pager);                                               //IMPORTANTE
         viewPager.setAdapter(sectionsPagerAdapter);                                                        //IMPORTANTE
@@ -73,8 +73,8 @@ public class MainBn extends AppCompatActivity {
     private void setupBadges(BottomNavigationView bottomNavigationView){
         //Configura los badges para cada elemento
         BadgeDrawable badge = bottomNavigationView.getOrCreateBadge(R.id.likes);
-        badge.setVisible(true);
-        badge.setNumber(5);
+        badge.setVisible(true); //Medalla, puntito rojo
+        badge.setNumber(5); //Numero dentro del puntito rojo
 
         badge = bottomNavigationView.getOrCreateBadge(R.id.add);
         badge.setVisible(true);
