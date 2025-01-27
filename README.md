@@ -74,3 +74,14 @@ He añadido un modo noche, que cambia el fondo a negro y que cambia los colores 
 ### Idiomas
 
 La aplicación tiene traducción al Francés de Francia
+
+
+### Bottom Navigation Menu
+- Insertar gif aqui
+El Bottom Navigation Menu nos permite avanzar entre diferentes pantallas (que no Activities) gracias al uso de fragments los cuales, al igual que los activity, tienen su propio xml y su propio codigo Java.
+
+
+### Section Pager Adapter
+
+Se define un adaptador que gestiona la navegacion entre fragments.
+En el metodo "getItem()" retorna el fragment adecuado (Page1, Page2...) dependiendo del indice "position"
