@@ -76,8 +76,13 @@ He añadido un modo noche, que cambia el fondo a negro y que cambia los colores 
 La aplicación tiene traducción al Francés de Francia
 
 
+### Fragments
+![Bottom Navigation Menu](imagenes/fragments.jpg "Menu en modo noche")
+
+
 ### Bottom Navigation Menu
-- Insertar gif aqui
+![Bottom Navigation Menu](imagenes/bottom_navigation_menu.jpg "Menu en modo noche")
+
 El Bottom Navigation Menu nos permite avanzar entre diferentes pantallas (que no Activities) gracias al uso de fragments los cuales, al igual que los activity, tienen su propio xml y su propio codigo Java.
 
 
