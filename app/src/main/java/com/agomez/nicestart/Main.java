@@ -116,6 +116,11 @@ public class Main extends AppCompatActivity {
         } else if (itemId == R.id.item4) {
             showSnackBarWithAction(layout, "Ajustes", "UNDO");
             return true;
+        } else if (itemId == R.id.item5_fr) {
+            showSnackBarWithAction(layout, "Fragmentos", "UNDO"); // Muestra un mensaje con acción
+            Intent intent = new Intent(this, MainBn.class); // Navega a la pantalla de perfil
+            startActivity(intent);
+            return true;
         } else if (itemId == R.id.itemS) {
             showAlertDialogButtonClicked(); // Muestra un diálogo de alerta
             return true;
