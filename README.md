@@ -53,7 +53,14 @@ Menú que abrirá una ventana emergente. Entre las 2 opciones, si damos a "Scrol
 El 2º menú nos da a elegir 3 opciones.
 - 1ª opción: Perfil. Si clicamos nos enviará a la pantalla "Profile"
 - 2ª y 3ª opción: Ajustes y Copiar: Al clicar nos pone un mensaje emergente en la parte inferior.
+- 4ª opción: Menú Fragments: Clicando en esta opción nos envía al activity donde nos muestran las 4 paginas distintas que hicimos.
 
+
+
+### Menú contextual
+![Profile](imagenes/contextual.jpg "Menu contextual")
+
+Menú idéntico al anterior, con la diferencia que este no tiene los logos que le pusimos a las opciones del primero.
 
 
 ### Pantalla Profile

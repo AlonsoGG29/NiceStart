@@ -70,13 +70,13 @@ public class Main extends AppCompatActivity {
     // Crea el menú contextual al realizar una pulsación larga
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
-        getMenuInflater().inflate(R.menu.menu_appbar, menu); // Infla el menú contextual desde el XML
+        getMenuInflater().inflate(R.menu.menu_context, menu); // Infla el menú contextual desde el XML
     }
 
     // Crea el menú de opciones de la aplicación
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_appbar, menu); // Infla el menú desde el XML
+        getMenuInflater().inflate(R.menu.menu_context, menu); // Infla el menú desde el XML
         return true;
     }
 
