@@ -94,7 +94,12 @@ En la pantalla Main, al arrastrar hacia abajo se refresca la página.
 Modo oscuro que cambia el fondo a negro y ajusta los colores para una mejor visualización nocturna.
 
 #### 🧩 Fragments
-<img src="imagenes/fragments.jpg" alt="Fragments" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="imagenes/fragments.jpg" alt="Fragments" width="24%"/>
+    <img src="imagenes/fragment2.jpg" alt="Fragments" width="24%"/>
+    <img src="imagenes/fragment3.jpg" alt="Fragments" width="24%"/>
+    <img src="imagenes/fragment4.jpg" alt="Fragments" width="24%"/>
+</div>
 
 Los fragments son pequeñas piezas dentro de un Activity. En Nicestart, cada fragment se relaciona con un apartado del **Bottom Navigation Menu**.
 
@@ -114,4 +119,3 @@ La aplicación está disponible en **Francés de Francia**, además del idioma p
 ---
 
 📌 **Nicestart ofrece una base sólida para el desarrollo de aplicaciones Android, facilitando la integración de elementos esenciales como login, navegación y personalización visual.** 🚀
-
